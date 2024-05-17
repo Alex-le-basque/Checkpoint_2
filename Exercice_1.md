@@ -39,5 +39,6 @@ Il récupere la premiere disponible pour lui car la 172.16.10.1 est exclu de la 
 
 Passer en IPV6 permet de l'auto-configuration des addresse IP à partir se don adresse MAC
 
-## Q.1.8 Est-ce que dans ce cas le serveur DHCP est obsolète ?
-Quelle modification peut-on faire sur le serveur DHCP pour qu'il reste actif et qu'il te permette de gérer les adresses IPv6 ?
+## Q.1.8 Est-ce que dans ce cas le serveur DHCP est obsolète ? Quelle modification peut-on faire sur le serveur DHCP pour qu'il reste actif et qu'il te permette de gérer les adresses IPv6 ?
+
+On peut configurer en DHCPV6

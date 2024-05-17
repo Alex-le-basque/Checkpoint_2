@@ -41,4 +41,4 @@ Passer en IPV6 permet de l'auto-configuration des addresse IP à partir se don a
 
 ## Q.1.8 Est-ce que dans ce cas le serveur DHCP est obsolète ? Quelle modification peut-on faire sur le serveur DHCP pour qu'il reste actif et qu'il te permette de gérer les adresses IPv6 ?
 
-On peut configurer en DHCPV6
+On peut dire que le DHCP est obsolete en ipv6, on peut configurer en DHCPV6

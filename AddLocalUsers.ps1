@@ -5,6 +5,7 @@
 #Q.2.4 De même, à quoi sert l'option -WindowsStyle Maximized ? il permet de lancer la fenêtre powershell en taille maximisé
 #Q.2.5 le prmeier user n'est pas pris en compte à cause de l'argument -Skip 2
 #Q.2.6 car dans les param de $UserInfo on a pas préciser Description
+#Q.2.16 la fonction permet de remplacer les lettres avec accent par sa version sans accent pour éviter divers conflit dans la création d'utilisateur
 
 
 

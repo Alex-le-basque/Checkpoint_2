@@ -114,4 +114,4 @@ Quel est son rôle pour le réseau 10.10.0.0/16 ?
 
 ## Q.3.23 A quel emplacement du réseau a été enregistré cette communication ?
 
-  
+  Entre els deux routeur
